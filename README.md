@@ -10,7 +10,7 @@ This library covers several critical business domains:
 * **Profile Ranking:** Measuring the impact of changes to algorith for presenting profiles to better match user expectation.
 * **Landing Page Optimization:** Capturing the performance of Paid and Organic landing page iteration to improve funnel conversion.
 
-## 🛠 Technical Features (SQL)
+## 🛠 Technical Features
 To maintain a high standard of experimental integrity, these scripts feature:
 * **Testcell Assignment:** Ensuring users are correctly attributed to 'Control' vs 'Variant' groups at the point of first interaction.
 * **Metric Standardization:** A unified matrix to compare primary KPIs (visitor to basic, basic to premium conversion) and secondary guardrail metrics (e.g., Churn or Unsubscribes) across all tests.
